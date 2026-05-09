@@ -1,24 +1,27 @@
 {
   "name": "my_portfolio",
   "version": "1.0.0",
+
   "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "start": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
+
   "dependencies": {
-    "bootstrap": "4.3.1",
+    "bootstrap": "4.3",
     "jquery": "^3.7.1",
     "popper.js": "^1.16.1",
     "scrollreveal": "^4.0.9",
     "typed.js": "^3.0.0"
   },
+
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.16.4",
     "parcel": "^2.16.4",
-    "sass": "^1.99.0"
+    "sass": "^1.89.0"
   }
 }

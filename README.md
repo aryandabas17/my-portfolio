@@ -58,7 +58,7 @@ src/
 
 ## 📸 Portfolio Preview
 
-(Add screenshot here later)
+![Portfolio Preview](./assets/preview.png)
 
 ---
 
